@@ -9,3 +9,6 @@
 4. npm start
 
 Then open http://localhost:3000/ to see your app.
+
+for more information please follow this guidelines:
+https://facebook.github.io/react/docs/installation.html
